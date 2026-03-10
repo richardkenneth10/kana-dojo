@@ -708,7 +708,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -716,7 +716,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 4)",
     "example": "子どものころからアニメが好きだ。",
     "id": 80,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
